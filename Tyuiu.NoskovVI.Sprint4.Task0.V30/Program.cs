@@ -6,7 +6,7 @@ namespace Tyuiu.NoskovVI.Sprint4.Task0.V30
     {
         static void Main(string[] args)
         {
-            int[] array = new int[10];
+            int[] array = new int[] { 9, 8, 4, 6, 9, 4, 3, 6, 1, 2 };
             DataService ds = new DataService();
             Console.Title = "Спринт #4 | Выполнил: Носков В. И. | ПКТб-24-1";
             Console.WriteLine("***************************************************************************");
@@ -21,12 +21,7 @@ namespace Tyuiu.NoskovVI.Sprint4.Task0.V30
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
-            Console.WriteLine("Введите все элементы массива: ");
-            for (int i =0; i<array.Length; i++)
-            {
-                array[i] = Convert.ToInt32(Console.ReadLine());
-            }
+            Console.WriteLine("*{9, 8, 4, 6, 9, 4, 3, 6, 1, 2}                                           *");
             Console.WriteLine("\n***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
