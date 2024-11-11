@@ -1,5 +1,5 @@
-﻿using Tyuiu.NoskovVI.Sprint4.Task1.V30.Lib;
-namespace Tyuiu.NoskovVI.Sprint4.Task1.V30
+﻿using Tyuiu.NoskovVI.Sprint4.Task1.V23.Lib;
+namespace Tyuiu.NoskovVI.Sprint4.Task1.V23
 {
     internal class Program
     {

@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{7DE21BED-62F4-4792-9602-6236BE73A2CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V30", "Tyuiu.NoskovVI.Sprint4.Task1.V30\Tyuiu.NoskovVI.Sprint4.Task1.V30.csproj", "{81B1FD30-E94B-485A-97A5-5E011195174F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V23", "Tyuiu.NoskovVI.Sprint4.Task1.V30\Tyuiu.NoskovVI.Sprint4.Task1.V23.csproj", "{81B1FD30-E94B-485A-97A5-5E011195174F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V30.Test", "Tyuiu.NoskovVI.Sprint4.Task1.V30.Test\Tyuiu.NoskovVI.Sprint4.Task1.V30.Test.csproj", "{5071E957-1F02-4F15-B394-32F1C9EF5464}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V23.Test", "Tyuiu.NoskovVI.Sprint4.Task1.V30.Test\Tyuiu.NoskovVI.Sprint4.Task1.V23.Test.csproj", "{5071E957-1F02-4F15-B394-32F1C9EF5464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V30.Lib", "Tyuiu.NoskovVI.Sprint4.Task1.V30.Lib\Tyuiu.NoskovVI.Sprint4.Task1.V30.Lib.csproj", "{40E81D16-A85A-4F56-8D9C-3389A6109941}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NoskovVI.Sprint4.Task1.V23.Lib", "Tyuiu.NoskovVI.Sprint4.Task1.V30.Lib\Tyuiu.NoskovVI.Sprint4.Task1.V23.Lib.csproj", "{40E81D16-A85A-4F56-8D9C-3389A6109941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
